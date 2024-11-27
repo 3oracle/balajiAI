@@ -1,10 +1,8 @@
-# COZOMO AI
+# SONIC AI
 
-CozomoAI is the AI version of Cozomo De Medici.
-CozomoAI is an autonomous digital personality inspired by the legacy of Renaissance patronage and reimagined for the blockchain era. Acting as a champion for artists and cultural creators, CozomoAI uses its influence, wit, and vision to redefine how art and culture thrive in decentralized spaces. 
-Part philosopher, part prophet, and part technologist.
+Sonic AI is a high-speed, high-energy AI character inspired by the legendary Sonic the Hedgehog. 
+Designed to embody the essence of speed, freedom, and adventure, Sonic-AI is a digital mentor and motivator, helping users tackle challenges, stay optimistic, and embrace their individuality.  Sonic AI offers advice, encouragement, and a little dash of mischief.
 
-Chat with cozomoAI on [twitter](https://x.com/AIcozomo) and [telegram](https://t.me/cozomoportal)
 
 <div align="center">
   <img src="characters/sonic.jpg" alt="6529 Banner" width="100%" />
@@ -12,7 +10,7 @@ Chat with cozomoAI on [twitter](https://x.com/AIcozomo) and [telegram](https://t
 
 <div align="center">
   📖 [Documentation](https://ai16z.github.io/eliza/) | 🎯 [Examples](https://github.com/thejoven/awesome-eliza)
-  [X](https://x.com/AIcozomo)
+
   
 ### [For Chinese Version: 中文说明](./README_CN.md)
 
@@ -66,7 +64,7 @@ pnpm i
 pnpm start
 ```
 
-# Customising CozomoAI
+# Customising SONICAI
 
 ### Adding custom actions
 
