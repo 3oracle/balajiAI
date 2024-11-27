@@ -7,7 +7,7 @@ Part philosopher, part prophet, and part technologist.
 Chat with cozomoAI on [twitter](https://x.com/AIcozomo) and [telegram](https://t.me/cozomoportal)
 
 <div align="center">
-  <img src="characters/cozomo.jpg" alt="6529 Banner" width="100%" />
+  <img src="characters/sonic.jpg" alt="6529 Banner" width="100%" />
 </div>
 
 <div align="center">
